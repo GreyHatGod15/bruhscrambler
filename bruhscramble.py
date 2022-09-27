@@ -26,7 +26,7 @@
 # You are free to modify or publish this but credits please.
 # Alse include this license document.
 
-# This algorithm checks if a word ''helloworld" is in the scrambled word "lohesgwballdorlsaqvsw"
+# This algorithm checks if a word "helloworld" is in the scrambled word "lohesgwballdorlsaqvsw"
 # Ofcourse the above is an example
 
 # This method works by storing how many times a letter has appeared in the scrambled word
